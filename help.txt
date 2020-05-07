@@ -25,3 +25,11 @@ git commit detail process
 git commit shortcut
 
 $ git commit -m "update help test shortcut"
+
+Show commit log 
+$ git log
+
+Show commit log in one line
+$ git log --oneline
+
+
