@@ -1,0 +1,15 @@
+initialize a folder
+$ git init
+set global user name
+$ git config --global user.name "ashik"
+set global user password
+$ git config --global user.email "ashikur1048@gmail.com"
+show list
+$ git config --list
+check status
+$ git status
+stage a single file
+$ git add help.txt
+stsge all file
+$ git add --all
+or
