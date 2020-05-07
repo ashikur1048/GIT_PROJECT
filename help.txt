@@ -16,4 +16,8 @@ or
 $ git add .
 
 git commit 
- 1. 
+ 1. $ git commit
+ 2. press i form Keyboard
+ 3. type some message for remarks
+ 4. press ESC form Keyboard
+ 5. write  :x   press enter
