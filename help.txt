@@ -15,9 +15,12 @@ $ git add --all
 or
 $ git add .
 
-git commit 
+git commit detail process
  1. $ git commit
  2. press i form Keyboard
  3. type some message for remarks
  4. press ESC form Keyboard
  5. write  :x   press enter
+
+git commit shortcut
+
