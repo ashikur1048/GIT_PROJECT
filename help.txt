@@ -13,3 +13,7 @@ $ git add help.txt
 stsge all file
 $ git add --all
 or
+$ git add .
+
+git commit 
+ 1. 
